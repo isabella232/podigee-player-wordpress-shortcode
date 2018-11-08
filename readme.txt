@@ -10,7 +10,9 @@ License URI: http://opensource.org/licenses/MIT
 Shortcode for embedding the Podigee Podcast Player into a post.
 
 == Description ==
-Shortcode to make it easier to embed the Podigee Podcast Player into a blog post by only providing a URL.
+A Shortcode to make it easier to embed the Podigee Podcast Player into a blog post by only providing a URL. This also works with free Podigee Accounts or the self-hosted version of the open-source player.
+
+If you have a paid Podigee account and want (a lot) more functionality, like importing show notes and other information into you WordPress posts, please have a look at our more advanced plugin called 'Podigee Wordpress Quick Publish' in the WordPress plugin directory.
 
 == Installation ==
 1. Upload the plugin files to the `/wp-content/plugins/plugin-name` directory, or install the plugin through the WordPress plugins screen directly.
