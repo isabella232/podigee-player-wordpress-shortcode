@@ -2,7 +2,7 @@
 Contributors: podigee
 Tags: podigee,podcast,player,shortcode,embed
 Requires at least: 3.0.1
-Tested up to: 4.5.1
+Tested up to: 4.9.8
 Stable tag: 1.0.0
 License: MIT
 License URI: http://opensource.org/licenses/MIT
